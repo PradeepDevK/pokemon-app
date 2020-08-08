@@ -30,4 +30,4 @@ functions:
                 method: delete
 
 plugins:
-    - serverless offline
+    - serverless-offline
